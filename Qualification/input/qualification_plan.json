@@ -161,7 +161,7 @@
         },
         {
             "Id": "Rifampicin-Digoxin-DDI",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/v1.0/Rifampicin-Digoxin-DDI.json",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/v1.1/Rifampicin-Digoxin-DDI.json",
             "BuildingBlocks": [
                 {
                     "Type": "Compound",
