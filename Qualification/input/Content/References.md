@@ -12,17 +12,17 @@
 
 **Tsutsumi 2002** Tsutsumi K, Kotegawa T, Kuranari M, Otani Y, Morimoto T, Matsuki S, Nakano S The effect of erythromycin and clarithromycin on the pharmacokinetics of intravenous digoxin in healthy volunteers. J Clin Pharmacol. 2002 Oct;42(10):1159-64. doi: 10.1177/009127002401382641.  
 
-## Erythromycin-Digoxin-DDI
+## Erythromycin - Digoxin-DDI
 
-**Tsutsumi 2002** Tsutsumi K, Kotegawa T, Kuranari M, Otani Y, Morimoto T, Matsuki S, Nakano S. The effect of erythromycin and clarithromycin on the pharmacokinetics of intravenous digoxin in healthy volunteers. *J Clin Pharmacol*. 2002 Oct;42(10):1159-64. doi: 10.1177/009127002401382641. PMID: 12362931.
+**Tsutsumi 2002** Tsutsumi K, Kotegawa T, Kuranari M, Otani Y, Morimoto T, Matsuki S, Nakano S. The effect of erythromycin and clarithromycin on the pharmacokinetics of intravenous digoxin in healthy volunteers. J Clin Pharmacol. 2002 Oct;42(10):1159-64. doi: 10.1177/009127002401382641. PMID: 12362931.
 
-## Itraconazole-Digoxin-DDI
+## Itraconazole - Digoxin-DDI
 
 **Jalava 1997** Jalava KM, Partanen J, Neuvonen PJ. Itraconazole decreases renal clearance of digoxin. Ther Drug Monit. 1997 Dec;19(6):609-13. doi: 10.1097/00007691-199712000-00001. PMID: 9421099.
 
 **Partanen 1995** Partanen J, Jalava KM, Neuvonen PJ. Itraconazole increases serum digoxin concentration. Pharmacol Toxicol. 1996 Nov;79(5):274-6. doi: 10.1111/j.1600-0773.1996.tb00273.x. PMID: 8936563.
 
-## Rifampicin-Digoxin-DDI
+## Rifampicin - Digoxin-DDI
 
 **Drescher 2003** Drescher S, Glaeser H, Mürdter T, Hitzl M, Eichelbaum M, Fromm MF. P-glycoprotein-mediated intestinal and biliary digoxin transport in humans. Clin Pharmacol Ther. 2003 Mar;73(3):223-31. doi: 10.1067/mcp.2003.27. PMID: 12621387.
 
@@ -70,3 +70,6 @@
 
 **Haertter 2013** Haertter S, Sennewald R, Nehmiz G, Reilly P. Oral bioavailability of dabigatran etexilate (Pradaxa(®) ) after co-medication with verapamil in healthy subjects. Br J Clin Pharmacol. 2013 Apr;75(4):1053-62. doi: 10.1111/j.1365-2125.2012.04453.x. PMID: 22946890.
 
+## Rifampicin - Dabigatran DDI
+
+**Haertter 2012** Haertter S, Koenen-Bergmann M, Sharma A, Nehmiz G, Lemke U, Timmer W, Reilly PA. Decrease in the oral bioavailability of dabigatran etexilate after co-medication with rifampicin. Br J Clin Pharmacol. 2012 Sep;74(3):490-500. doi: 10.1111/j.1365-2125.2012.04218.x. PMID: 22348256.
