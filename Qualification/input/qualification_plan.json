@@ -2277,8 +2277,7 @@
           }
         ]
       }
-    ],
-    "PKRatioPlots": []
+    ]
   },
   "Inputs": [],
   "Sections": [
@@ -2323,7 +2322,8 @@
             },
             {
               "Reference": "verapamil-dabigatran-ddi",
-              "Title": "Verapamil - Dabigatran DDI"
+              "Title": "Verapamil - Dabigatran DDI",
+              "Content": "Content/Verapamil-Dabigatran-DDI.md"
             }
           ]
         }
