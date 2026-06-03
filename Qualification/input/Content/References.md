@@ -66,3 +66,7 @@
 
 **Wiebe 2020** Wiebe ST, Giessmann T, Hohl K, Schmidt-Gerets S, Hauel E, Jambrecina A, Bader K, Ishiguro N, Taub ME, Sharma A, Ebner T, Mikus G, Fromm MF, Müller F, Stopfer P. Validation of a Drug Transporter Probe Cocktail Using the Prototypical Inhibitors Rifampin, Probenecid, Verapamil, and Cimetidine. Clin Pharmacokinet. 2020 Dec;59(12):1627-1639. doi: 10.1007/s40262-020-00907-w. PMID: 32504272; PMCID: PMC7716890.
 
+## Verapamil - Dabigatran DDI
+
+**Haertter 2013** Haertter S, Sennewald R, Nehmiz G, Reilly P. Oral bioavailability of dabigatran etexilate (Pradaxa(®) ) after co-medication with verapamil in healthy subjects. Br J Clin Pharmacol. 2013 Apr;75(4):1053-62. doi: 10.1111/j.1365-2125.2012.04453.x. PMID: 22946890.
+
