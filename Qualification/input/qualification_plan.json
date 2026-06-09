@@ -27,7 +27,7 @@
         },
         {
             "Id": "Dabigatran",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/vmaster/Dabigatran-Model.json"
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/master/Dabigatran-Model.json"
         },
         {
             "Id": "Verapamil-Dabigatran-DDI",
@@ -249,7 +249,7 @@
         },
         {
             "Id": "DDI Ratios",
-            "Path": "https://raw.githubusercontent.com/NinaHanke/Database-for-observed-data/vmaster/DDI2.csv",
+            "Path": "https://raw.githubusercontent.com/NinaHanke/Database-for-observed-data/master/DDI2.csv",
             "Type": "DDIRatio"
         }
     ],
