@@ -26,6 +26,66 @@
             "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Model/v2.0/Rifampicin-Model.json"
         },
         {
+            "Id": "Dabigatran",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/vmaster/Dabigatran-Model.json"
+        },
+        {
+            "Id": "Verapamil-Dabigatran-DDI",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Dabigatran-DDI/v1.0/Verapamil-Dabigatran-DDI.json",
+            "BuildingBlocks": [
+                {
+                    "Type": "Compound",
+                    "Name": "DabiEtex",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Dabigatran",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "DabiGluc",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "DabiEtex_Capsule",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "Solution",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "R-Norverapamil",
+                    "Project": "Verapamil"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "S-Norverapamil",
+                    "Project": "Verapamil"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "R-Verapamil",
+                    "Project": "Verapamil"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "S-Verapamil",
+                    "Project": "Verapamil"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "Retard Tablet Verapamil (Knoll)",
+                    "Project": "Verapamil"
+                }
+            ]
+        },
+        {
             "Id": "Clarithromycin-Digoxin-DDI",
             "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Clarithromycin-Digoxin-DDI/v1.0/Clarithromycin-Digoxin-DDI.json",
             "BuildingBlocks": [
@@ -185,6 +245,11 @@
         {
             "Id": "DDI Ratios",
             "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.7/DDI.csv",
+            "Type": "DDIRatio"
+        },
+        {
+            "Id": "DDI Ratios",
+            "Path": "https://raw.githubusercontent.com/NinaHanke/Database-for-observed-data/vmaster/DDI2.csv",
             "Type": "DDIRatio"
         }
     ],
@@ -1347,6 +1412,36 @@
                         "TimeUnit": "h",
                         "Color": "#b2182b",
                         "Caption": "Digoxin (Cocktail) + Rifampin",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-dabigatran-ddi-timeprofile",
+                "Title": "BI 1160-0074",
+                "SimulationDuration": 36,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Dabigatran-DDI",
+                        "Simulation": "1160-0074 - DDI Control",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "1160-0074_Vera-Dabi_Control_Dabigatran",
+                        "StartTime": 0,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Dabigatran Control",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Dabigatran-DDI",
+                        "Simulation": "1160-0074 - DDI Verapamil",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "1160-0074_Vera-Dabi_DDI_Dabigatran",
+                        "StartTime": 0,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Dabigatran + Verapamil",
                         "Symbol": "Square"
                     }
                 ]
