@@ -1,3 +1,14 @@
+## Clarithromycin - Dabigatran DDI
+
+**Delavenne 2013** Delavenne X, Ollier E, Basset T, Bertoletti L, Accassat S, Garcin A, Laporte S, Zufferey P, Mismetti P. A semi-mechanistic absorption model to evaluate drug-drug interaction with dabigatran: application with clarithromycin. Br J Clin Pharmacol. 2013 Jul;76(1):107-13. doi: 10.1111/bcp.12055. PMID: 23210726; PMCID: PMC3703233.
+
+**European Medicines Agency 2025** European Medicines Agency (EMA). Pradaxa: EPAR – Product Information (Summary of Product Characteristics). First published: 15 December 2009. Last updated: 24 November 2025.
+Available at: https://www.ema.europa.eu/en/documents/product-information/pradaxa-epar-product-information_en.pdf.
+
+**Gouin-Thibault 2017** Gouin-Thibault I, Delavenne X, Blanchard A, Siguret V, Salem JE, Narjoz C, Gaussem P, Beaune P, Funck-Brentano C, Azizi M, Mismetti P, Loriot MA. Interindividual variability in dabigatran and rivaroxaban exposure: contribution of ABCB1 genetic polymorphisms and interaction with clarithromycin. J Thromb Haemost. 2017 Feb;15(2):273-283. doi: 10.1111/jth.13577. Epub 2017 Feb 6. PMID: 27893182.
+
+**Prueksaritanont 2017** Prueksaritanont T, Tatosian DA, Chu X, Railkar R, Evers R, Chavez-Eng C, Lutz R, Zeng W, Yabut J, Chan GH, Cai X, Latham AH, Hehman J, Stypinski D, Brejda J, Zhou C, Thornton B, Bateman KP, Fraser I, Stoch SA. Validation of a microdose probe drug cocktail for clinical drug interaction assessments for drug transporters and CYP3A. Clin Pharmacol Ther. 2017 Apr;101(4):519-530. doi: 10.1002/cpt.525. Epub 2016 Dec 10. PMID: 27943276.
+
 ## Clarithromycin - Digoxin DDI
 
 **Gurley 2006** Gurley BJ, Barone GW, Williams DK, Carrier J, Breen P, Yates CR, Song PF, Hubbard MA, Tong Y, Cheboyina S Effect of milk thistle (Silybum marianum) and black cohosh (Cimicifuga racemosa) supplementation on digoxin pharmacokinetics in humans. Drug Metab Dispos. 2006 Jan;34(1):69-74. doi: 10.1124/dmd.105.006312. Epub 2005   
@@ -16,11 +27,23 @@
 
 **Tsutsumi 2002** Tsutsumi K, Kotegawa T, Kuranari M, Otani Y, Morimoto T, Matsuki S, Nakano S. The effect of erythromycin and clarithromycin on the pharmacokinetics of intravenous digoxin in healthy volunteers. J Clin Pharmacol. 2002 Oct;42(10):1159-64. doi: 10.1177/009127002401382641. PMID: 12362931.
 
+## Itraconazole - Dabigatran DDI
+
+**Prueksaritanont 2017** Prueksaritanont T, Tatosian DA, Chu X, Railkar R, Evers R, Chavez-Eng C, Lutz R, Zeng W, Yabut J, Chan GH, Cai X, Latham AH, Hehman J, Stypinski D, Brejda J, Zhou C, Thornton B, Bateman KP, Fraser I, Stoch SA. Validation of a microdose probe drug cocktail for clinical drug interaction assessments for drug transporters and CYP3A. Clin Pharmacol Ther. 2017 Apr;101(4):519-530. doi: 10.1002/cpt.525. Epub 2016 Dec 10. PMID: 27943276.
+
 ## Itraconazole - Digoxin-DDI
 
 **Jalava 1997** Jalava KM, Partanen J, Neuvonen PJ. Itraconazole decreases renal clearance of digoxin. Ther Drug Monit. 1997 Dec;19(6):609-13. doi: 10.1097/00007691-199712000-00001. PMID: 9421099.
 
 **Partanen 1995** Partanen J, Jalava KM, Neuvonen PJ. Itraconazole increases serum digoxin concentration. Pharmacol Toxicol. 1996 Nov;79(5):274-6. doi: 10.1111/j.1600-0773.1996.tb00273.x. PMID: 8936563.
+
+## Rifampicin - Dabigatran DDI
+
+**Haertter 2012** Haertter S, Koenen-Bergmann M, Sharma A, Nehmiz G, Lemke U, Timmer W, Reilly PA. Decrease in the oral bioavailability of dabigatran etexilate after co-medication with rifampicin. Br J Clin Pharmacol. 2012 Sep;74(3):490-500. doi: 10.1111/j.1365-2125.2012.04218.x. PMID: 22348256; PMCID: PMC3477350.
+
+**Prueksaritanont 2017** Prueksaritanont T, Tatosian DA, Chu X, Railkar R, Evers R, Chavez-Eng C, Lutz R, Zeng W, Yabut J, Chan GH, Cai X, Latham AH, Hehman J, Stypinski D, Brejda J, Zhou C, Thornton B, Bateman KP, Fraser I, Stoch SA. Validation of a microdose probe drug cocktail for clinical drug interaction assessments for drug transporters and CYP3A. Clin Pharmacol Ther. 2017 Apr;101(4):519-530. doi: 10.1002/cpt.525. Epub 2016 Dec 10. PMID: 27943276.
+
+**Rattanacheeworn 2021** Rattanacheeworn P, Kerr SJ, Kittanamongkolchai W, Townamchai N, Udomkarnjananun S, Praditpornsilpa K, Thanusuwannasak T, Udomnilobol U, Jianmongkol S, Ongpipattanakul B, Prueksaritanont T, Avihingsanon Y, Chariyavilaskul P. Quantification of CYP3A and Drug Transporters Activity in Healthy Young, Healthy Elderly and Chronic Kidney Disease Elderly Patients by a Microdose Cocktail Approach. Front Pharmacol. 2021 Sep 17;12:726669. doi: 10.3389/fphar.2021.726669. PMID: 34603040; PMCID: PMC8486002.
 
 ## Rifampicin - Digoxin-DDI
 
@@ -41,6 +64,10 @@
 **Reitmann 2011** Reitman ML, Chu X, Cai X, Yabut J, Venkatasubramanian R, Zajic S, Stone JA, Ding Y, Witter R, Gibson C, Roupe K, Evers R, Wagner JA, Stoch A. Rifampin's acute inhibitory and chronic inductive drug interactions: experimental and model-based approaches to drug-drug interaction trial design. Clin Pharmacol Ther. 2011 Feb;89(2):234-42. doi: 10.1038/clpt.2010.271. Epub 2010 Dec 29. PMID: 21191377.
 
 **Wiebe 2020** Wiebe ST, Giessmann T, Hohl K, Schmidt-Gerets S, Hauel E, Jambrecina A, Bader K, Ishiguro N, Taub ME, Sharma A, Ebner T, Mikus G, Fromm MF, Müller F, Stopfer P. Validation of a Drug Transporter Probe Cocktail Using the Prototypical Inhibitors Rifampin, Probenecid, Verapamil, and Cimetidine. Clin Pharmacokinet. 2020 Dec;59(12):1627-1639. doi: 10.1007/s40262-020-00907-w. PMID: 32504272; PMCID: PMC7716890.
+
+## Verapamil - Dabigatran DDI
+
+**Haertter 2013** Haertter S, Sennewald R, Nehmiz G, Reilly P. Oral bioavailability of dabigatran etexilate (Pradaxa(®)) after co-medication with verapamil in healthy subjects. Br J Clin Pharmacol. 2013 Apr;75(4):1053-62. doi: 10.1111/j.1365-2125.2012.04453.x. PMID: 22946890; PMCID: PMC3612723.
 
 ## Verapamil - Digoxin DDI
 
@@ -65,11 +92,3 @@
 **Schwartz 1982** Schwartz JB, Keefe D, Kates RE, Kirsten E, Harrison DC. Acute and chronic pharmacodynamic interaction of verapamil and digoxin in atrial fibrillation. Circulation. 1982 Jun;65(6):1163-70. doi: 10.1161/01.cir.65.6.1163. PMID: 7074776.
 
 **Wiebe 2020** Wiebe ST, Giessmann T, Hohl K, Schmidt-Gerets S, Hauel E, Jambrecina A, Bader K, Ishiguro N, Taub ME, Sharma A, Ebner T, Mikus G, Fromm MF, Müller F, Stopfer P. Validation of a Drug Transporter Probe Cocktail Using the Prototypical Inhibitors Rifampin, Probenecid, Verapamil, and Cimetidine. Clin Pharmacokinet. 2020 Dec;59(12):1627-1639. doi: 10.1007/s40262-020-00907-w. PMID: 32504272; PMCID: PMC7716890.
-
-## Verapamil - Dabigatran DDI
-
-**Haertter 2013** Haertter S, Sennewald R, Nehmiz G, Reilly P. Oral bioavailability of dabigatran etexilate (Pradaxa(®) ) after co-medication with verapamil in healthy subjects. Br J Clin Pharmacol. 2013 Apr;75(4):1053-62. doi: 10.1111/j.1365-2125.2012.04453.x. PMID: 22946890.
-
-## Rifampicin - Dabigatran DDI
-
-**Haertter 2012** Haertter S, Koenen-Bergmann M, Sharma A, Nehmiz G, Lemke U, Timmer W, Reilly PA. Decrease in the oral bioavailability of dabigatran etexilate after co-medication with rifampicin. Br J Clin Pharmacol. 2012 Sep;74(3):490-500. doi: 10.1111/j.1365-2125.2012.04218.x. PMID: 22348256.
