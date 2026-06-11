@@ -77,11 +77,6 @@
                     "Type": "Compound",
                     "Name": "S-Verapamil",
                     "Project": "Verapamil"
-                },
-                {
-                    "Type": "Formulation",
-                    "Name": "Retard Tablet Verapamil (Knoll)",
-                    "Project": "Verapamil"
                 }
             ]
         },
@@ -248,7 +243,7 @@
             "Type": "DDIRatio"
         },
         {
-            "Id": "DDI Ratios",
+            "Id": "DDI Ratios 2",
             "Path": "https://raw.githubusercontent.com/NinaHanke/Database-for-observed-data/master/DDI2.csv",
             "Type": "DDIRatio"
         }
