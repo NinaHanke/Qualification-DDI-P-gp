@@ -2184,6 +2184,11 @@
                             "Reference": "rifampicin-digoxin-ddi",
                             "Title": "Rifampicin - Digoxin DDI",
                             "Content": "Content/Rifampicin-Digoxin-DDI.md"
+                        },
+                        {
+                            "Reference": "verapamil-dabigatran-ddi",
+                            "Title": "Verapamil - Dabigatran DDI",
+                            "Content": "Content/Verapamil-Dabigatran-DDI.md"
                         }
                     ]
                 }
@@ -2218,6 +2223,10 @@
                 {
                     "Reference": "rifampicin-digoxin-ddi-timeprofile",
                     "Title": "Rifampicin - Digoxin DDI"
+                },
+                {
+                    "Reference": "verapamil-dabigatran-ddi-timeprofile",
+                    "Title": "Verapamil - Dabigatran DDI"
                 }
             ]
         },
