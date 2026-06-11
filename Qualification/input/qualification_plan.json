@@ -1413,7 +1413,7 @@
             },
             {
                 "SectionReference": "verapamil-dabigatran-ddi-timeprofile",
-                "Title": "BI 1160-0074",
+                "Title": "Boehringer 1160-0074",
                 "SimulationDuration": 36,
                 "TimeUnit": "h",
                 "OutputMappings": [
