@@ -1,6 +1,6 @@
 The release of the snapshot containing the respective simulations can be found here: [https://github.com/Open-Systems-Pharmacology/Verapamil-Dabigatran-DDI](https://github.com/Open-Systems-Pharmacology/Verapamil-Dabigatran-DDI)
 
-The verapamil-dabigatran interaction was evaluated using a 1 clinical DDI studies including 1 different clinical settings ([Haertter 2013](#references)).
+The verapamil-dabigatran interaction was evaluated using one clinical DDI study ([Haertter 2013](#references)).
 
 
 
