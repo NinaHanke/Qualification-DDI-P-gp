@@ -30,6 +30,129 @@
             "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/master/Dabigatran-Model.json"
         },
         {
+            "Id": "Clarithromycin-Dabigatran-DDI",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Clarithromycin-Dabigatran-DDI/v1.0/Clarithromycin-Dabigatran-DDI.json",
+            "BuildingBlocks": [
+                {
+                    "Type": "Compound",
+                    "Name": "DabiEtex",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Dabigatran",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "DabiGluc",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "DabiEtex_Capsule",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "Solution",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Clarithromycin",
+                    "Project": "Clarithromycin"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "Tablet Clarithromycin",
+                    "Project": "Clarithromycin"
+                }
+            ]
+        },
+        {
+            "Id": "Itraconazole-Dabigatran-DDI",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Itraconazole-Dabigatran-DDI/v1.0/Itraconazole-Dabigatran-DDI.json",
+            "BuildingBlocks": [
+                {
+                    "Type": "Compound",
+                    "Name": "DabiEtex",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Dabigatran",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "DabiGluc",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "Solution",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Itraconazole",
+                    "Project": "Itraconazole"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Hydroxy-Itraconazole",
+                    "Project": "Itraconazole"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Keto-Itraconazole",
+                    "Project": "Itraconazole"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "N-desalkyl-Itraconazole",
+                    "Project": "Itraconazole"
+                }
+            ]
+        },
+        {
+            "Id": "Rifampicin-Dabigatran-DDI",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Dabigatran-DDI/v1.0/Rifampicin-Dabigatran-DDI.json",
+            "BuildingBlocks": [
+                {
+                    "Type": "Compound",
+                    "Name": "DabiEtex",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Dabigatran",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "DabiGluc",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "DabiEtex_Capsule",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "Solution",
+                    "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Rifampicin",
+                    "Project": "Rifampicin"
+                }
+            ]
+        },
+        {
             "Id": "Verapamil-Dabigatran-DDI",
             "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Dabigatran-DDI/v1.0/Verapamil-Dabigatran-DDI.json",
             "BuildingBlocks": [
@@ -174,6 +297,27 @@
             ]
         },
         {
+            "Id": "Rifampicin-Digoxin-DDI",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/v1.1/Rifampicin-Digoxin-DDI.json",
+            "BuildingBlocks": [
+                {
+                    "Type": "Compound",
+                    "Name": "Digoxin",
+                    "Project": "Digoxin"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Rifampicin",
+                    "Project": "Rifampicin"
+                },
+                {
+                    "Type": "Formulation",
+                    "Name": "Oral solution",
+                    "Project": "Rifampicin"
+                }
+            ]
+        },
+        {
             "Id": "Verapamil-Digoxin-DDI",
             "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Digoxin-DDI/v1.1/Verapamil-Digoxin-DDI.json",
             "BuildingBlocks": [
@@ -211,27 +355,6 @@
                     "Type": "Formulation",
                     "Name": "Solution",
                     "Project": "Digoxin"
-                }
-            ]
-        },
-        {
-            "Id": "Rifampicin-Digoxin-DDI",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/v1.1/Rifampicin-Digoxin-DDI.json",
-            "BuildingBlocks": [
-                {
-                    "Type": "Compound",
-                    "Name": "Digoxin",
-                    "Project": "Digoxin"
-                },
-                {
-                    "Type": "Compound",
-                    "Name": "Rifampicin",
-                    "Project": "Rifampicin"
-                },
-                {
-                    "Type": "Formulation",
-                    "Name": "Oral solution",
-                    "Project": "Rifampicin"
                 }
             ]
         }
@@ -754,320 +877,6 @@
                 ]
             },
             {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Johnson 1987",
-                "SimulationDuration": 72.25,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, Control, Johnson 1987, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Johnson et al. 1987 - Digoxin IV control - Digoxin - IV - 1 mg - Serum - agg. (n=12)",
-                        "StartTime": 288,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, DDI, Johnson 1987, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Johnson et al. 1987 - Digoxin IV + Verapamil - Digoxin - IV - 1 mg - Serum - agg. (n=12)",
-                        "StartTime": 288,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Rodin 1988",
-                "SimulationDuration": 12,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po BID, Control, Rodin 1988, n=10",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Rodin 1988 - 2x0.25mg po md - Digoxin - PO - 0.25 mg - Plasma - agg. (n=10)",
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po BID, DDI, Rodin 1988, n=10",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Rodin 1988 - 2x0.25mg po md with verapamil - Digoxin - PO - 0.25 mg - Plasma - agg. (n=10)",
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Wiebe 2020",
-                "SimulationDuration": 73,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po SD (Cocktail), Control, Wiebe 2020, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Wiebe 2020 - Control digoxin - plasma - Digoxin - PO - 0.25 mg - Plasma - agg. (n=12)",
-                        "StartTime": 1,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po SD (Cocktail), DDI, Wiebe 2020, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Wiebe 2020 - DDI digoxin + verapamil - plasma - Digoxin - PO - 0.25 mg - Plasma - agg. (n=12)",
-                        "StartTime": 1,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Klein 1982",
-                "SimulationDuration": 984,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po QD, DDI, Klein 1982, n=7, patients",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Klein et al. 1982 - Digoxin and Verapamil in MD setting - Digoxin - PO - 0.25 mg - Serum - agg. (n=7)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Schwartz 1982",
-                "SimulationDuration": 2025,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.46 mg po QD, DDI, Schwartz 1982, n=10, patients",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Schwartz et al. 1982 - Digoxin and Verapamil in MD setting - Digoxin - PO - 0.46 mg - Serum - agg. (n=10)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Belz 1983",
-                "SimulationDuration": 24,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Belz 1983, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": [
-                            "Belz et al. 1983 - Digoxin control to 80mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
-                            "Belz et al. 1983 - Digoxin control to 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)"
-                        ],
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI  80 mg, Belz 1983, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Belz et al. 1983 - Digoxin + 80mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil (80mg)",
-                        "Symbol": "Square"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI 120 mg, Belz 1983, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Belz et al. 1983 - Digoxin + 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#000000",
-                        "Caption": "Digoxin + Verapamil (120mg)",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Doering 1983",
-                "SimulationDuration": 24,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Doering 1983, n=9",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Doering et al. 1983 - Digoxin control - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
-                        "StartTime": 144,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil) - first week",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Doering 1983, n=9",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Doering et al. 1983 - Digoxin control - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#009900",
-                        "Caption": "Control (without verapamil) - second week",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI, Doering 1983, n=9",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Doering et al. 1983 - Digoxin+ 80mg Verapamil - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
-                        "StartTime": 144,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil - first week",
-                        "Symbol": "Square"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI, Doering 1983, n=9",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Doering et al. 1983 - Digoxin+ 80mg Verapamil - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#000000",
-                        "Caption": "Digoxin + Verapamil - second week",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Pedersen 1983",
-                "SimulationDuration": 101,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, Control, Pedersen 1983, n=1",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Pedersen et al. 1983 - Digoxin IV control - Digoxin - IV - 1 mg - Plasma - indiv.",
-                        "StartTime": 168,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, DDI, Pedersen 1983, n=1",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Pedersen et al. 1983 - Digoxin IV + Verapamil - Digoxin - IV - 1 mg - Plasma - indiv.",
-                        "StartTime": 168,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Pedersen 1982",
-                "SimulationDuration": 2568,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.0625 mg po BID, Pedersen 1982, n=7",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Pedersen et al. 1982 - Digoxin control - Digoxin - PO - 1/0.0625 mg - Plasma - agg. (n=7)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.0625 mg po BID, Pedersen 1982, n=7",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Pedersen et al. 1982 - Digoxin and Verapamil in MD setting - Digoxin - PO - 1/0.0625/0.125 mg - Plasma - agg. (n=7)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
-                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
-                "Title": "Belz 1981",
-                "SimulationDuration": 12,
-                "TimeUnit": "h",
-                "OutputMappings": [
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Belz 1981, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Belz 1981 - Digoxin + Placebo - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
-                        "StartTime": 328,
-                        "TimeUnit": "h",
-                        "Color": "#2166ac",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Square"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI  80 mg, Belz 1981, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Belz 1981 - Digoxin + Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
-                        "StartTime": 328,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
-                        "Symbol": "Square"
-                    }
-                ]
-            },
-            {
                 "SectionReference": "rifampicin-digoxin-ddi-timeprofile",
                 "Title": "Drescher 2003",
                 "SimulationDuration": 24,
@@ -1407,6 +1216,410 @@
                         "TimeUnit": "h",
                         "Color": "#b2182b",
                         "Caption": "Digoxin (Cocktail) + Rifampin",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Johnson 1987",
+                "SimulationDuration": 72.25,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, Control, Johnson 1987, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Johnson et al. 1987 - Digoxin IV control - Digoxin - IV - 1 mg - Serum - agg. (n=12)",
+                        "StartTime": 288,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil)",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, DDI, Johnson 1987, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Johnson et al. 1987 - Digoxin IV + Verapamil - Digoxin - IV - 1 mg - Serum - agg. (n=12)",
+                        "StartTime": 288,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Rodin 1988",
+                "SimulationDuration": 12,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po BID, Control, Rodin 1988, n=10",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Rodin 1988 - 2x0.25mg po md - Digoxin - PO - 0.25 mg - Plasma - agg. (n=10)",
+                        "StartTime": 312,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil)",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po BID, DDI, Rodin 1988, n=10",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Rodin 1988 - 2x0.25mg po md with verapamil - Digoxin - PO - 0.25 mg - Plasma - agg. (n=10)",
+                        "StartTime": 312,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Wiebe 2020",
+                "SimulationDuration": 73,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po SD (Cocktail), Control, Wiebe 2020, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Wiebe 2020 - Control digoxin - plasma - Digoxin - PO - 0.25 mg - Plasma - agg. (n=12)",
+                        "StartTime": 1,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil)",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po SD (Cocktail), DDI, Wiebe 2020, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Wiebe 2020 - DDI digoxin + verapamil - plasma - Digoxin - PO - 0.25 mg - Plasma - agg. (n=12)",
+                        "StartTime": 1,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Klein 1982",
+                "SimulationDuration": 984,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po QD, DDI, Klein 1982, n=7, patients",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Klein et al. 1982 - Digoxin and Verapamil in MD setting - Digoxin - PO - 0.25 mg - Serum - agg. (n=7)",
+                        "StartTime": 0,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Schwartz 1982",
+                "SimulationDuration": 2025,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.46 mg po QD, DDI, Schwartz 1982, n=10, patients",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Schwartz et al. 1982 - Digoxin and Verapamil in MD setting - Digoxin - PO - 0.46 mg - Serum - agg. (n=10)",
+                        "StartTime": 0,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Belz 1983",
+                "SimulationDuration": 24,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Belz 1983, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": [
+                            "Belz et al. 1983 - Digoxin control to 80mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
+                            "Belz et al. 1983 - Digoxin control to 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)"
+                        ],
+                        "StartTime": 312,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil)",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI  80 mg, Belz 1983, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Belz et al. 1983 - Digoxin + 80mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
+                        "StartTime": 312,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil (80mg)",
+                        "Symbol": "Square"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI 120 mg, Belz 1983, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Belz et al. 1983 - Digoxin + 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
+                        "StartTime": 312,
+                        "TimeUnit": "h",
+                        "Color": "#000000",
+                        "Caption": "Digoxin + Verapamil (120mg)",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Doering 1983",
+                "SimulationDuration": 24,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Doering 1983, n=9",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Doering et al. 1983 - Digoxin control - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
+                        "StartTime": 144,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil) - first week",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Doering 1983, n=9",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Doering et al. 1983 - Digoxin control - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
+                        "StartTime": 312,
+                        "TimeUnit": "h",
+                        "Color": "#009900",
+                        "Caption": "Control (without verapamil) - second week",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI, Doering 1983, n=9",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Doering et al. 1983 - Digoxin+ 80mg Verapamil - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
+                        "StartTime": 144,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil - first week",
+                        "Symbol": "Square"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI, Doering 1983, n=9",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Doering et al. 1983 - Digoxin+ 80mg Verapamil - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
+                        "StartTime": 312,
+                        "TimeUnit": "h",
+                        "Color": "#000000",
+                        "Caption": "Digoxin + Verapamil - second week",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Pedersen 1983",
+                "SimulationDuration": 101,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, Control, Pedersen 1983, n=1",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Pedersen et al. 1983 - Digoxin IV control - Digoxin - IV - 1 mg - Plasma - indiv.",
+                        "StartTime": 168,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil)",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, DDI, Pedersen 1983, n=1",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Pedersen et al. 1983 - Digoxin IV + Verapamil - Digoxin - IV - 1 mg - Plasma - indiv.",
+                        "StartTime": 168,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Pedersen 1982",
+                "SimulationDuration": 2568,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.0625 mg po BID, Pedersen 1982, n=7",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Pedersen et al. 1982 - Digoxin control - Digoxin - PO - 1/0.0625 mg - Plasma - agg. (n=7)",
+                        "StartTime": 0,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil)",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.0625 mg po BID, Pedersen 1982, n=7",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Pedersen et al. 1982 - Digoxin and Verapamil in MD setting - Digoxin - PO - 1/0.0625/0.125 mg - Plasma - agg. (n=7)",
+                        "StartTime": 0,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "verapamil-digoxin-ddi-timeprofile",
+                "Title": "Belz 1981",
+                "SimulationDuration": 12,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Belz 1981, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Belz 1981 - Digoxin + Placebo - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
+                        "StartTime": 328,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Control (without verapamil)",
+                        "Symbol": "Square"
+                    },
+                    {
+                        "Project": "Verapamil-Digoxin-DDI",
+                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, DDI  80 mg, Belz 1981, n=12",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Belz 1981 - Digoxin + Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
+                        "StartTime": 328,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Digoxin + Verapamil",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "clarithromycin-dabigatran-ddi-timeprofile",
+                "Title": "Boehringer 1160-0082",
+                "SimulationDuration": 175,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Clarithromycin-Dabigatran-DDI",
+                        "Simulation": "1160-0082 - DDI Control",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "1160-0082_Clari-Dabi_Control_Dabigatran",
+                        "StartTime": 121,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Dabigatran Control",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Clarithromycin-Dabigatran-DDI",
+                        "Simulation": "1160-0082 - DDI Clarithromycin",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "1160-0082_Clari-Dabi_DDI_Dabigatran",
+                        "StartTime": 121,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Dabigatran + Clarithromycin",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "itraconazole-dabigatran-ddi-timeprofile",
+                "Title": "",
+                "SimulationDuration": 150,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Itraconazole-Dabigatran-DDI",
+                        "Simulation": "Prueksaritanont 2017 - DDI Control",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": [],
+                        "StartTime": 72,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Dabigatran Control",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Itraconazole-Dabigatran-DDI",
+                        "Simulation": "Prueksaritanont 2017 - DDI Itraconazole",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": [],
+                        "StartTime": 72,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Dabigatran + Itraconazole",
+                        "Symbol": "Square"
+                    }
+                ]
+            },
+            {
+                "SectionReference": "rifampicin-dabigatran-ddi-timeprofile",
+                "Title": "Boehringer 1160-0100",
+                "SimulationDuration": 300,
+                "TimeUnit": "h",
+                "OutputMappings": [
+                    {
+                        "Project": "Rifampicin-Dabigatran-DDI",
+                        "Simulation": "Härtter 2012 - DDI Control",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Härtter 2012_Rifa-Dabi_Control_Dabigatran",
+                        "StartTime": 0,
+                        "TimeUnit": "h",
+                        "Color": "#2166ac",
+                        "Caption": "Dabigatran Control",
+                        "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Rifampicin-Dabigatran-DDI",
+                        "Simulation": "Härtter 2012 - DDI Rifampicin",
+                        "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Härtter 2012_Rifa-Dabi_DDI_Dabigatran",
+                        "StartTime": 192,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Dabigatran + Rifampicin",
                         "Symbol": "Square"
                     }
                 ]
@@ -2176,14 +2389,29 @@
                             "Content": "Content/Itraconazole-Digoxin-DDI.md"
                         },
                         {
+                            "Reference": "rifampicin-digoxin-ddi",
+                            "Title": "Rifampicin - Digoxin DDI",
+                            "Content": "Content/Rifampicin-Digoxin-DDI.md"
+                        },
+                        {
                             "Reference": "verapamil-digoxin-ddi",
                             "Title": "Verapamil - Digoxin DDI",
                             "Content": "Content/Verapamil-Digoxin-DDI.md"
                         },
                         {
-                            "Reference": "rifampicin-digoxin-ddi",
-                            "Title": "Rifampicin - Digoxin DDI",
-                            "Content": "Content/Rifampicin-Digoxin-DDI.md"
+                            "Reference": "clarithromycin-dabigatran-ddi",
+                            "Title": "Clarithromycin - Dabigatran DDI",
+                            "Content": "Content/Clarithromycin-Dabigatran-DDI.md"
+                        },
+                        {
+                            "Reference": "itraconazole-dabigatran-ddi",
+                            "Title": "Itraconazole - Dabigatran DDI",
+                            "Content": "Content/Itraconazole-Dabigatran-DDI.md"
+                        },
+                        {
+                            "Reference": "rifampicin-dabigatran-ddi",
+                            "Title": "Rifampicin - Dabigatran DDI",
+                            "Content": "Content/Rifampicin-Dabigatran-DDI.md"
                         },
                         {
                             "Reference": "verapamil-dabigatran-ddi",
@@ -2217,12 +2445,24 @@
                     "Title": "Itraconazole - Digoxin DDI"
                 },
                 {
+                    "Reference": "rifampicin-digoxin-ddi-timeprofile",
+                    "Title": "Rifampicin - Digoxin DDI"
+                },
+                {
                     "Reference": "verapamil-digoxin-ddi-timeprofile",
                     "Title": "Verapamil - Digoxin DDI"
                 },
                 {
-                    "Reference": "rifampicin-digoxin-ddi-timeprofile",
-                    "Title": "Rifampicin - Digoxin DDI"
+                    "Reference": "clarithromycin-dabigatran-ddi-timeprofile",
+                    "Title": "Clarithromycin - Dabigatran DDI"
+                },
+                {
+                    "Reference": "itraconazole-dabigatran-ddi-timeprofile",
+                    "Title": "Itraconazole - Dabigatran DDI"
+                },
+                {
+                    "Reference": "rifampicin-dabigatran-ddi-timeprofile",
+                    "Title": "Rifampicin - Dabigatran DDI"
                 },
                 {
                     "Reference": "verapamil-dabigatran-ddi-timeprofile",
