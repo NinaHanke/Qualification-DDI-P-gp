@@ -366,8 +366,8 @@
             "Type": "DDIRatio"
         },
         {
-            "Id": "DDI Ratios 2",
-            "Path": "https://raw.githubusercontent.com/NinaHanke/Database-for-observed-data/master/DDI2.csv",
+            "Id": "DDI Ratios 3",
+            "Path": "https://raw.githubusercontent.com/NinaHanke/Database-for-observed-data/master/DDI3.csv",
             "Type": "DDIRatio"
         }
     ],
@@ -1810,8 +1810,8 @@
                 "SectionReference": "qualification-of-use-case-pgp-mediated-ddi",
                 "Title": "Pgp DDI",
                 "PKParameters": [
-                    "AUC",
-                    "CMAX"
+                    "AUC_tEnd",
+                    "C_max"
                 ],
                 "PlotTypes": [
                     "predictedVsObserved",
@@ -2251,7 +2251,7 @@
                         "DDIRatios": [
                             {
                                 "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "DDI Ratios 2",
+                                "ObservedData": "DDI Ratios 3",
                                 "ObservedDataRecordId": 1800,
                                 "SimulationControl": {
                                     "Project": "Verapamil-Dabigatran-DDI",
