@@ -367,7 +367,7 @@
         },
         {
             "Id": "DDI Ratios 3",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/master/DDI.csv",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/master/DDI3.csv",
             "Type": "DDIRatio"
         }
     ],
