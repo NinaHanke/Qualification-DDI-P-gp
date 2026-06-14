@@ -362,7 +362,7 @@
     "ObservedDataSets": [
         {
             "Id": "DDI Ratios",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/master/DDI.csv",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.7/DDI.csv",
             "Type": "DDIRatio"
         },
         {
