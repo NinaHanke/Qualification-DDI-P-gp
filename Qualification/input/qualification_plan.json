@@ -362,12 +362,12 @@
     "ObservedDataSets": [
         {
             "Id": "DDI Ratios",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.7/DDI.csv",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/master/DDI.csv",
             "Type": "DDIRatio"
         },
         {
             "Id": "DDI Ratios 3",
-            "Path": "https://raw.githubusercontent.com/NinaHanke/Database-for-observed-data/master/DDI3.csv",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dabigatran-Model/master/DDI.csv",
             "Type": "DDIRatio"
         }
     ],
@@ -1805,7 +1805,7 @@
                 ]
             }
         ],
-        "DDIRatioPlots": [
+                "DDIRatioPlots": [
             {
                 "SectionReference": "qualification-of-use-case-pgp-mediated-ddi",
                 "Title": "Pgp DDI",
@@ -2239,30 +2239,6 @@
                                     "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po BID, DDI, Rodin 1988, n=10",
                                     "StartTime": 312,
                                     "EndTime": 324,
-                                    "TimeUnit": "h"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "Caption": "Verapamil + Dabigatran (po)",
-                        "Color": "#FF00FF",
-                        "Symbol": "Diamond",
-                        "DDIRatios": [
-                            {
-                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "DDI Ratios 3",
-                                "ObservedDataRecordId": 1800,
-                                "SimulationControl": {
-                                    "Project": "Verapamil-Dabigatran-DDI",
-                                    "Simulation": "1160-0074 - DDI Control",
-                                    "StartTime": 1,
-                                    "TimeUnit": "h"
-                                },
-                                "SimulationDDI": {
-                                    "Project": "Verapamil-Dabigatran-DDI",
-                                    "Simulation": "1160-0074 - DDI Verapamil",
-                                    "StartTime": 1,
                                     "TimeUnit": "h"
                                 }
                             }
