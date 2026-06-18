@@ -2168,6 +2168,30 @@
                         ]
                     },
                     {
+                        "Caption": "Rifampicin + Dabigatran (po)",
+                        "Color": "#DDCC77",
+                        "Symbol": "Circle",
+                        "DDIRatios": [
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1801,
+                                "SimulationControl": {
+                                    "Project": "Rifampicin-Dabigatran-DDI",
+                                    "Simulation": "Härtter 2012 - DDI Control",
+                                    "StartTime": 0,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Rifampicin-Dabigatran-DDI",
+                                    "Simulation": "Härtter 2012 - DDI Rifampicin",
+                                    "StartTime": 192,
+                                    "TimeUnit": "h"
+                                }
+                            }
+                        ]
+                    },
+                    {
                         "Caption": "Rifampicin + Digoxin (iv)",
                         "Color": "#FF8000",
                         "Symbol": "Square",
@@ -2421,6 +2445,30 @@
                                     "Project": "Rifampicin-Digoxin-DDI",
                                     "Simulation": "Wiebe2020_Treatment",
                                     "StartTime": 0,
+                                    "TimeUnit": "h"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Verapamil + Dabigatran (po)",
+                        "Color": "#AA4499",
+                        "Symbol": "Circle",
+                        "DDIRatios": [
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1800,
+                                "SimulationControl": {
+                                    "Project": "Verapamil-Dabigatran-DDI",
+                                    "Simulation": "1160-0074 - DDI Control",
+                                    "StartTime": 1,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Verapamil-Dabigatran-DDI",
+                                    "Simulation": "1160-0074 - DDI Verapamil",
+                                    "StartTime": 1,
                                     "TimeUnit": "h"
                                 }
                             }
