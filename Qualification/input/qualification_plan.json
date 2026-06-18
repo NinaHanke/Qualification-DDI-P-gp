@@ -2082,6 +2082,30 @@
                         ]
                     },
                     {
+                        "Caption": "Itraconazole + Dabigatran (po)",
+                        "Color": "#44AA99",
+                        "Symbol": "Circle",
+                        "DDIRatios": [
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1804,
+                                "SimulationControl": {
+                                    "Project": "Itraconazole-Dabigatran-DDI",
+                                    "Simulation": "Prueksaritanont 2017 - DDI Control",
+                                    "StartTime": 72,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Itraconazole-Dabigatran-DDI",
+                                    "Simulation": "Prueksaritanont 2017 - DDI Itraconazole",
+                                    "StartTime": 72,
+                                    "TimeUnit": "h"
+                                }
+                            }
+                        ]
+                    },
+                    {
                         "Caption": "Itraconazole + Digoxin (po)",
                         "Color": "#008000",
                         "Symbol": "Circle",
@@ -2498,30 +2522,6 @@
                                     "Project": "Rifampicin-Digoxin-DDI",
                                     "Simulation": "Wiebe2020_Treatment",
                                     "StartTime": 0,
-                                    "TimeUnit": "h"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "Caption": "Itraconazole + Dabigatran (po)",
-                        "Color": "#0000FF",
-                        "Symbol": "Circle",
-                        "DDIRatios": [
-                            {
-                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "DDI Ratios 3",
-                                "ObservedDataRecordId": 1804,
-                                "SimulationControl": {
-                                    "Project": "Itraconazole-Dabigatran-DDI",
-                                    "Simulation": "Prueksaritanont 2017 - DDI Control",
-                                    "StartTime": 72,
-                                    "TimeUnit": "h"
-                                },
-                                "SimulationDDI": {
-                                    "Project": "Itraconazole-Dabigatran-DDI",
-                                    "Simulation": "Prueksaritanont 2017 - DDI Itraconazole",
-                                    "StartTime": 72,
                                     "TimeUnit": "h"
                                 }
                             }
