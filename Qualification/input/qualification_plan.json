@@ -1831,7 +1831,7 @@
                 "Groups": [
                     {
                         "Caption": "Clarithromycin + Dabigatran (po)",
-                        "Color": "#CC6677",
+                        "Color": "#882255",
                         "Symbol": "Circle",
                         "DDIRatios": [
                             {
@@ -1848,6 +1848,57 @@
                                     "Project": "Clarithromycin-Dabigatran-DDI",
                                     "Simulation": "Prueksaritanont 2017 - DDI Clarithromycin",
                                     "StartTime": 72,
+                                    "TimeUnit": "h"
+                                }
+                            },
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1806,
+                                "SimulationControl": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "Delavenne 2012 - DDI Control",
+                                    "StartTime": 0,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "Delavenne 2012 - DDI Clarithromycin",
+                                    "StartTime": 70.5,
+                                    "TimeUnit": "h"
+                                }
+                            },
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1807,
+                                "SimulationControl": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "Gouin-Thibault 2017 - DDI Control",
+                                    "StartTime": 96,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "Gouin-Thibault 2017 - DDI Clarithromycin",
+                                    "StartTime": 96,
+                                    "TimeUnit": "h"
+                                }
+                            },
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1808,
+                                "SimulationControl": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "1160-0082 - DDI Control",
+                                    "StartTime": 121,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "1160-0082 - DDI Clarithromycin",
+                                    "StartTime": 121,
                                     "TimeUnit": "h"
                                 }
                             }
