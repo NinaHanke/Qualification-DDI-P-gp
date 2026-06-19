@@ -1830,6 +1830,30 @@
                 ],
                 "Groups": [
                     {
+                        "Caption": "Clarithromycin + Dabigatran (po)",
+                        "Color": "#CC6677",
+                        "Symbol": "Circle",
+                        "DDIRatios": [
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1805,
+                                "SimulationControl": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "Prueksaritanont 2017 - DDI Control",
+                                    "StartTime": 72,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Clarithromycin-Dabigatran-DDI",
+                                    "Simulation": "Prueksaritanont 2017 - DDI Clarithromycin",
+                                    "StartTime": 72,
+                                    "TimeUnit": "h"
+                                }
+                            }
+                        ]
+                    },
+                    {
                         "Caption": "Clarithromycin + Digoxin (IV)",
                         "Color": "#FF0000",
                         "Symbol": "Square",
@@ -2186,6 +2210,40 @@
                                     "Project": "Rifampicin-Dabigatran-DDI",
                                     "Simulation": "Härtter 2012 - DDI Rifampicin",
                                     "StartTime": 192,
+                                    "TimeUnit": "h"
+                                }
+                            },
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1802,
+                                "SimulationControl": {
+                                    "Project": "Rifampicin-Dabigatran-DDI",
+                                    "Simulation": "Rattanacheeworn 2021 - DDI Control",
+                                    "StartTime": 0,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Rifampicin-Dabigatran-DDI",
+                                    "Simulation": "Rattanacheeworn 2021 - DDI Rifampicin",
+                                    "StartTime": 0,
+                                    "TimeUnit": "h"
+                                }
+                            },
+                            {
+                                "Output": "Organism|PeripheralVenousBlood|Dabigatran|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "DDI Ratios 3",
+                                "ObservedDataRecordId": 1803,
+                                "SimulationControl": {
+                                    "Project": "Rifampicin-Dabigatran-DDI",
+                                    "Simulation": "Prueksaritanont 2017 - DDI Control",
+                                    "StartTime": 72,
+                                    "TimeUnit": "h"
+                                },
+                                "SimulationDDI": {
+                                    "Project": "Rifampicin-Dabigatran-DDI",
+                                    "Simulation": "Prueksaritanont 2017 - DDI Rifampicin",
+                                    "StartTime": 72,
                                     "TimeUnit": "h"
                                 }
                             }
