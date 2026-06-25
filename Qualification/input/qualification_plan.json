@@ -144,11 +144,6 @@
                     "Type": "Formulation",
                     "Name": "Solution",
                     "Project": "Dabigatran"
-                },
-                {
-                    "Type": "Compound",
-                    "Name": "Rifampicin",
-                    "Project": "Rifampicin"
                 }
             ]
         },
@@ -2561,7 +2556,7 @@
                     },
                     {
                         "Caption": "Verapamil + Dabigatran (po)",
-                        "Color": "#AA4499",
+                        "Color": "#CC6677",
                         "Symbol": "Circle",
                         "DDIRatios": [
                             {
