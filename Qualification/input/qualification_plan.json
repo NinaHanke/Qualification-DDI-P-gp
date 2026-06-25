@@ -144,6 +144,11 @@
                     "Type": "Formulation",
                     "Name": "Solution",
                     "Project": "Dabigatran"
+                },
+                {
+                    "Type": "Compound",
+                    "Name": "Rifampicin",
+                    "Project": "Rifampicin"
                 }
             ]
         },
