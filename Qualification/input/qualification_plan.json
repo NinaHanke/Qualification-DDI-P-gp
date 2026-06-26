@@ -1810,8 +1810,8 @@
                 "SectionReference": "qualification-of-use-case-pgp-mediated-ddi",
                 "Title": "Pgp DDI",
                 "PKParameters": [
-                    "AUC",
-                    "CMAX"
+                    "AUC_tEnd",
+                    "C_max"
                 ],
                 "PlotTypes": [
                     "predictedVsObserved",
